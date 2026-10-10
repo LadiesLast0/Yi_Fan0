@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Jron26
-- 👀 I’m interested in ... Game Designing... and Female...
+- 👋 Hi, I’m @Yi_Fan0!
+- 👀 I’m interested in ... Game Designing
 - 🌱 I’m currently learning ... Computer Science
-- 💞️ I’m looking to collaborate on ... well...
-- 📫 How to reach me ... jroncorpuz36@gmail.com
+- 💞️ I’m looking to collaborate on ... anything
+- 📫 How to reach me ... jroncorpuz36@gmail.com/jroncorpuz36@yahoo.com
 
 <!---
 Jron26/Jron26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
